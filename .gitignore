@@ -1,0 +1,13 @@
+.DS_Store
+
+.vscode/
+.fleet/
+.obsidian/
+*.idea/
+/*/*.iml
+
+# go
+*.sum
+
+# node
+/*/*/node_modules
